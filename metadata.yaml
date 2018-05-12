@@ -30,6 +30,8 @@ creator:
     gutenberg_agent_id: '41245'
     url: http://www.gutenberg.org/2009/agents/41245
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41580#Haunted-London
 gutenberg_issued: '2012-12-08'
 gutenberg_type: Text
 identifiers:
