@@ -1,0 +1,50 @@
+_repo: Haunted-London_41580
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fairholt, F. W. (Frederick William)
+    alias: Fairholt, Frederick William
+    birthdate: 1814
+    deathdate: 1866
+    gutenberg_agent_id: '32015'
+    url: http://www.gutenberg.org/2009/agents/32015
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_William_Fairholt
+covers:
+- cover_type: archival
+  image_path: 41580-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Thornbury, Walter
+    aliases:
+    - Thornbury, George W. (George Walter)
+    - Thornbury, George Walter
+    - Thornbury, G. W. (George Walter)
+    birthdate: 1828
+    deathdate: 1876
+    gutenberg_agent_id: '35209'
+    url: http://www.gutenberg.org/2009/agents/35209
+  editor:
+    agent_name: Walford, Edward
+    birthdate: 1823
+    deathdate: 1897
+    gutenberg_agent_id: '41245'
+    url: http://www.gutenberg.org/2009/agents/41245
+description: ''
+gutenberg_issued: '2012-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41580'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'London (England) -- History'
+tableOfContents: Introduction -- Temple Bar -- The Strand (south side) -- Somerset
+  House -- The Strand (south side, continued) -- The Savoy -- From the Savoy to Charing
+  Cross -- The north side of the Strand (from Temple Bar to Charing Cross) -- Charing
+  Cross -- St. Martin's Lane -- Long Acre and its tributaries -- Drury Lane -- St.
+  Giles's -- Lincoln's Inn Fields.
+title: Haunted London
+url: http://www.gutenberg.org/ebooks/41580
